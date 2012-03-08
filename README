@@ -1,0 +1,8 @@
+The idea was pretty simple : I wanted to create a pure html5 / css3 contact form, without using any images, and here is the result. 
+
+The trick : I used some gradients, some :before and :after pseudo-classes and an icon font to add the little pictos to the labels. This is an experiment, it should not be used on live websites since it has some browser compatibility issues and uses code that's still in the W3C working draft.
+I also used some of the new html5 form goodness (placeholder, new input types like mail, etc).
+I wrote a tutorial for onextrapixel explaining all the code of this form that will be published soon, so I'll give you the link if you are interrested : http://www.onextrapixel.com/2012/01/23/full-css3-html5-contact-form-with-no-images/
+
+Personnal website : http://www.inpixelitrust.fr
+Contact me : http://www.inpixelitrust.fr/me-contacter/
